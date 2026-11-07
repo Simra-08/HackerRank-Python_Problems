@@ -29,15 +29,7 @@ def getMoneySpent(keyboards, drives, b):
             return i
     return -1        
             
-            
-    
-    
-    
-    
-            
-              
-    
-    
+                
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
